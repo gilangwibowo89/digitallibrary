@@ -12,6 +12,6 @@ Berikut adalah Koleksi yang dimiliki:
 5. [Sepotong Hati yang Baru](ebook/Sepotong Hati yang Baru by Tere Liye.pdf) - Tere Liye (2024)
 6. [Si Anak Pelangi](ebook/Si Anak Pelangi by Tere Liye.pdf) - Tere Liye (2019)
 7. [Nadella](ebook/Nadella by Rizca.pdf) - Rizca (2023)
-8. []() - ()
+8. [Jodoh Warisan](ebook/Jodoh Warisan by Rahma Eko Agustin.pdf) - Rahma Eko Agustin (2020)
 
    *Powered by GitHub Pages*
