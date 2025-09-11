@@ -10,5 +10,6 @@ Berikut adalah Koleksi yang dimiliki:
 3. [Sendiri by Tere Liye](ebook/Sendiri by Tere Liye.pdf) - Tere Liye (2024)
 4. [Nana Oh Nana](ebook/Nana Oh Nana by Nitta Yennita.pdf) - Nana Oh Nana by Nitta Yennita (None)
 5. [Sepotong Hati yang Baru](ebook/Sepotong Hati yang Baru by Tere Liye.pdf) - Tere Liye (2024)
+6. [Si Anak Pelangi](ebook/Si Anak Pelangi by Tere Liye.pdf) - Tere Liye (2019)
 
    *Powered by GitHub Pages*
