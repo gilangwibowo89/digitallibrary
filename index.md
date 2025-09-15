@@ -13,7 +13,7 @@ Berikut adalah Koleksi yang dimiliki:
 6. [Si Anak Pelangi](ebook/Si Anak Pelangi by Tere Liye.pdf) - Tere Liye (2019)
 7. [Nadella](ebook/Nadella by Rizca.pdf) - Rizca (2023)
 8. [Jodoh Warisan](ebook/Jodoh Warisan by Rahma Eko Agustin.pdf) - Rahma Eko Agustin (2020)
-9. [Get Married!](ebook/Get Married! by Ade Tiwi, Azeela Danastri.pdf) - Azeela Danastri (2020)
+9. [Get Married!](ebook/Get Married! by Ade Tiwi Azeela Danastri.pdf) - Azeela Danastri (2020)
 10. [Mengurai Belenggu](ebook/Mengurai Belenggu by Alnira.pdf) - Alnira (2025)
 11. [Ringkasan Materi VR Dr. Tengku. Gilang 108](ebook/Ringkasan Materi VR Dr. Tengku. Gilang 108.pdf) - Gilang (13040123140108)
     
