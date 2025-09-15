@@ -5,7 +5,7 @@ Selamat Datang di Perpustakaan Digital
 Berikut adalah Koleksi yang dimiliki:
 
 ## Koleksi
-1. [Gilang Engineering: Sheesshh](ebook/PERPUS PUSAT BAB 1 DAN 2.pdf) - Gilank D. Wibowo lanks, dkk (2004)
+1. [Gilang engineering: Sheesshh](ebook/PERPUS PUSAT BAB 1 DAN 2.pdf) - Gilank D. Wibowo lanks, dkk (2004)
 2. [Janji](ebook/Janji by Tere Liye.pdf) - Tere Liye (2021)
 3. [Sendiri](ebook/Sendiri by Tere Liye.pdf) - Tere Liye (2024)
 4. [Nana Oh Nana](ebook/Nana Oh Nana by Nitta Yennita.pdf) - Nitta Yennita (None)
