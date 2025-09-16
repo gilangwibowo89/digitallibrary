@@ -7,13 +7,13 @@
 <h1><marquee direction="up"><font color="#1aff1a">halo ini halaman 1!!</font></marquee></h1> 
 <hr>
 <p>
-<a href="hal1.html">Halaman 1</a>|
-<a href="hal2.html">Halaman 2</a>|
-<a href="hal3.html">Halaman 3</a>|
-<a href="hal4.html">Halaman 4</a>|
-<a href="hal5.html">Halaman 5</a>|
-<a href="hal6.html">Halaman 6</a>|
-<a href="hal7.html">Halaman 7</a>
+<a href="halaman1.html">Halaman 1</a>|
+<a href="halaman2-1.html">Halaman 2</a>|
+<a href="halaman3-1.html">Halaman 3</a>|
+<a href="halaman4-1.html">Halaman 4</a>|
+<a href="halaman5-1.html">Halaman 5</a>|
+<a href="halaman6-1.html">Halaman 6</a>|
+<a href="halaman7.html">Halaman 7</a>
 </p>
 <p>My first paragraph</p> 
 
@@ -28,8 +28,7 @@
 
 <hr>
 <p>Klik tombol untuk membuka index.md:</p>
-<button onclick="loadMarkdown()">Buka Index.md</button>
-<div id="md-content"></div>
+<button onclick="window.open('../index.md', '_blank')">Buka Index.md</button>
 
 <script>
 function myFunction() {
@@ -40,17 +39,6 @@ function myFunction() {
         document.getElementById("demo").innerHTML =
         "Selamat siang " + nama + "! Nim Anda : "+nim+"! Program Studi: "+prodi;
     }
-}
-
-async function loadMarkdown() {
-    const response = await fetch('../index.md');
-    const mdText = await response.text();
-    let html = mdText
-        .replace(/^# (.*$)/gim, '<h1>$1</h1>')
-        .replace(/^## (.*$)/gim, '<h2>$1</h2>')
-        .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank">$1</a>')
-        .replace(/\n/g, '<br>');
-    document.getElementById('md-content').innerHTML = html;
 }
 </script>
 </body>
