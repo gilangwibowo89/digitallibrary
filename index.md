@@ -18,5 +18,7 @@ Berikut adalah Koleksi yang dimiliki:
 11. [Ringkasan Materi VR Dr. Tengku. Gilang 108](ebook/Ringkasan Materi VR Dr. Tengku. Gilang 108.pdf) - Gilang (13040123140108)
 
     [NILAI ASLI SAHRONI](webti/hal1.html)
+
+<a href="webti/hal1.html">e</a>
     
    *Powered by GitHub Pages*
