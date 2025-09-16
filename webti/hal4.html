@@ -1,0 +1,198 @@
+<html>
+<HEAD>
+<TITLE>Belajar HTML</TITLE>
+</HEAD>
+<style>
+    body {
+      background-image: url('bgnn.JPG');
+      background-size: contain;
+      margin: 0; 
+      padding: 0;
+    }
+  </style>
+</HEAD>
+<body>
+<h1><font face="times new roman" color="black">Selamat Datang pada Halaman Web Kami</font></h1>
+<font face="times new roman">
+<a href="hal1.html">Bio orang Tulus</a>|
+<a href="hal2.html">Penerapan TI</a>|
+<a href="hal3.html">Kesan & Pesan</a>|
+<a href="hal4.html">Game</a>
+</font>
+<p><div style="background: #00BFFF"><p align="center"><font face="times new roman" size="18" color= "black">Mini Games HTML</font></p></div>
+<html>
+<style>
+  <title>Garis Horizontal</title>
+<style>
+    body {
+      background-image: url('bgnn.JPG');
+      background-size: contain;
+      margin: 0; 
+      padding: 0;
+    }
+<style>
+    body {
+      background-image: url('bola.jpg');
+      background-size: cover;
+      background-repeat: no-repeat;
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+      color: #333;
+    }
+    .container {
+      max-width: 800px;
+      margin: 50px auto;
+      padding: 20px;
+      background-color: rgba(255, 255, 255, 0.8);
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    }
+    h1 {
+      text-align: center;
+      color: #007bff;
+    }
+    p {
+      text-align: justify;
+    }
+  </style>
+<font face="times new roman">
+<div class="container">
+<style>
+<p>Klik tombol untuk menampilkan Prompt Box</p>
+ <button onclick="myFunction()">Coba</button>
+ <p id="demo"></p>
+ <script>
+ function myFunction() {
+	 var x;
+	 var nama = prompt("Anda telah mengambil matakuliah Teknologi Informasi, ketikkan nama Anda!","Your Name Here");
+	 var nim = prompt("Ketikkan nim Anda!");
+	 var prodi = prompt ("ketikan prodi anda !");
+	 if (nama != null) {
+		document.getElementById("demo").innerHTML =
+		"Selamat Pagi " + nama + "! Nim Anda : "+nim; "prodi anda: "+prodi;
+	}
+ }
+ </script>
+</style>
+<table>
+        <tr>
+           <td><label for="nam_dep">Nama Depan</label></td>
+           <td><input type="text" name="nam_dep" id="nam_dep"></td>
+        </tr>
+        <tr>
+           <td><label for="nam_bel">Nama Belakang</label></td>
+           <td><input type="text" name="nam_bel" id="nam_bel"></td>
+        </tr>
+        <tr>
+           <td>Jenis Kelamin</td>
+           <td><input type="radio" name="Jenis_Kel" value="Pria" id"pria">
+                 <label for="pria">Pria</label>
+        </td>
+        </tr>
+        <tr>
+           <td></td>
+<td><input type="radio" name="Jenis_Kel" value="Wanita" id"wanita">
+                 <label for="wanita">Wanita</label>
+        </td>
+        </tr>
+        <tr>
+           <td><label for="pendidikan">Pendidikan Terakhir</label></td>
+           <td><select name="pendidikan" id="pendidikan">
+               <option value="">Silahkan Pilih</option>
+               <option value="SD">SD</option>
+               <option value="SLTP">SMP</option>
+               <option value="SLTA">SMA/SMK/STM</option>
+               <option value="D3">D3</option>
+               <option value="S1">S1</option>
+               <option value="S2">S2</option>
+               <option value="S3">S3</option>
+           </td>
+        </tr>
+        <tr>
+ <td>Komik Favorit</td>
+           <td><input type="checkbox" name="komik" value="Naruto" id="Naruto">
+               <label for="Naruto">Naruto</label>
+               <input type="checkbox" name="komik" value="One_P" id="One_P">
+               <label for="One_P">One Piece</label>
+               <input type="checkbox" name="komik" value="Conan" id="Conan">
+               <label for="Conan">Conan</label>
+			   <input type="checkbox" name="komik" value="Doraemon" id="Doraemon">
+               <label for="Doraemon">Doraemon</label>
+           </td>
+        </tr>
+        <tr>
+           <td></td>
+           <td><textarea rows="4" cols="50">Deskripsi diri anda</textarea>
+               <label for="deskripsi"></label>
+ </td>
+        </tr>
+        <tr>
+           <td>
+              <input type="submit" value="Submit">
+              <input type="reset" value="Reset">
+           </td>
+        </tr>
+     </table>
+     </form>
+<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tebak Angka</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        h1 {
+            color: navy;
+        }
+    </style>
+    <h1>Tebak Angka</h1></font>
+    <p <font face "times new roman">Masukkan angka antara 1 dan 100:</font></p>
+    <input type="text" id="guessField">
+    <button onclick="checkGuess()">Submit</button>
+    <p id="message"></p>
+
+ <script>
+ <font face="times new roman"
+        // Fungsi untuk menghasilkan angka acak antara 1 dan 100
+        function generateRandomNumber() {
+            return Math.floor(Math.random() * 100) + 1;
+        }
+
+        // Memulai permainan pertama
+        let randomNumber = generateRandomNumber();
+
+        // Fungsi untuk memeriksa tebakan
+        function checkGuess() {
+            const guessField = document.getElementById('guessField');
+            const guess = parseInt(guessField.value);
+
+            if (isNaN(guess) || guess < 1 || guess > 100) {
+                setMessage("Masukkan angka antara 1 dan 100.", "red");
+                return;
+            }
+
+ if (guess === 50) {
+                setMessage("Selamat! Anda menebak dengan benar.", "green");
+                randomNumber = generateRandomNumber(50);
+            } else if (guess < randomNumber) {
+                setMessage("Tebakan terlalu rendah, coba lagi.", "red");
+            } else {
+                setMessage("Tebakan terlalu tinggi, coba lagi.", "red");
+            }
+
+            guessField.value = "";
+        }
+
+        // Fungsi untuk menetapkan pesan dan warna pesan
+        function setMessage(message, color) {
+            const messageElement = document.getElementById('message');
+            messageElement.textContent = message;
+            messageElement.style.color = color;
+        }
+    </script>
+</div>
+</font>
+</body>
+</html>
