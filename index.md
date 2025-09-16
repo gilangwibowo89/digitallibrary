@@ -19,6 +19,6 @@ Berikut adalah Koleksi yang dimiliki:
 
     [NILAI ASLI SAHRONI](webti/hal1.html)
 
-<a href="webti/hal1.html">e</a>
+<a href="webti/hal1.html">test</a>
     
    *Powered by GitHub Pages*
